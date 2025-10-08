@@ -16,7 +16,8 @@ Ofrece una interfaz sencilla y visualmente clara para facilitar las conversiones
 
 ## 🖼️ Interfaz de la aplicación
 
-![Interfaz del convertidor](./08b04139-83ae-4f9b-a5f9-30b6c1dfc329.png)
+![Interfaz del convertidor](https://github.com/1993victoram/Convertidor-de-formato-de-archivos/raw/main/interfaz.png)
+
 
 ---
 
