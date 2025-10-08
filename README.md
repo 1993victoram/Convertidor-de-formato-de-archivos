@@ -33,8 +33,7 @@ Ofrece una interfaz sencilla y visualmente clara para facilitar las conversiones
 1. Asegúrate de tener **Python 3.10 o superior** instalado.  
 2. Clona o descarga el repositorio:  
    ```bash
-  git clone https://github.com/1993victoram/Convertidor-de-formato-de-archivos.git
-
+   git clone https://github.com/1993victoram/Convertidor-de-formato-de-archivos.git
    ```
 3. Instala las librerías necesarias:  
    ```bash
@@ -57,6 +56,16 @@ Ofrece una interfaz sencilla y visualmente clara para facilitar las conversiones
 
 ---
 
+## 📦 Repositorio
+
+Clona este proyecto con:  
+```bash
+git clone https://github.com/1993victoram/Convertidor-de-formato-de-archivos.git
+```
+O visita el repositorio directamente en GitHub 👉 [Convertidor-de-formato-de-archivos](https://github.com/1993victoram/Convertidor-de-formato-de-archivos)
+
+---
+
 ## 📄 Licencia
 
 Este proyecto es de uso libre con fines educativos o personales.  
@@ -68,4 +77,5 @@ Puedes modificarlo y adaptarlo según tus necesidades.
 
 Desarrollado por **Victor Aza**  
 💬 Si te fue útil, ¡no olvides dejar una estrella ⭐ en el repositorio!
+
 
