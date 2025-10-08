@@ -33,7 +33,7 @@ Ofrece una interfaz sencilla y visualmente clara para facilitar las conversiones
 1. Asegúrate de tener **Python 3.10 o superior** instalado.  
 2. Clona o descarga el repositorio:  
    ```bash
-   git clone https://github.com/tuusuario/convertidor-word-pdf.git
+   git clone [https://github.com/tuusuario/convertidor-word-pdf.git](https://github.com/1993victoram/Convertidor-de-formato-de-archivos/blob/main/convertir.py)
    ```
 3. Instala las librerías necesarias:  
    ```bash
